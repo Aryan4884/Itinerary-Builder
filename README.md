@@ -35,26 +35,26 @@ npm install
 npm run dev
 ```
 
-##🎯 Usage
+## 🎯 Usage
 
 - Open in your browser: http://localhost:5173 🌐
 - Follow the guided form 📝 step by step
 - Add ✈️ flights, 🏨 hotels, and 📅 day-by-day plans
 - Preview your ✨itinerary✨ and download it as a polished PDF 📄
 
-##🧰 Technologies Used
+## 🧰 Technologies Used
 
 ⚛️ React
 -🎨 Tailwind CSS
 -🖼️ html2canvas & jsPDF (for PDF creation)
 -🗓️ Day.js (for smart date handling)
 ---
-##🎨 Customization
+## 🎨 Customization
 
 🖼️ Want new scenic images? Drop them into: public/scenic_images/
 🎨 Want to change styles? Modify Tailwind classes in component files
 
-##🤝 Contributing
+## 🤝 Contributing
 -Pull requests are very welcome! 🙌
 -For big changes, please open an issue first so we can chat about it 💬
 ---
