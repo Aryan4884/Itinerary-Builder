@@ -58,9 +58,5 @@ npm run dev
 - Pull requests are very welcome! 🙌
 - For big changes, please open an issue first so we can chat about it 💬
 ---
-👨‍💻 Created by Aryan Raj (2025)
-Happy Travels! ✈️🗺️📌
-
-vbnet
-Copy
-Edit
+- 👨‍💻 Created by Aryan Raj (2025)
+- Happy Travels! ✈️🗺️📌
