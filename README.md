@@ -33,7 +33,7 @@ npm run dev
 ---
 ## Usage
 
-- Open [http://localhost:3000](http://localhost:3000) in your browser.
+- Open [http://localhost:5173](http://localhost:5173) in your browser.
 - Fill out the form step by step.
 - Add as many activities, flights, and hotels as you need.
 - Preview your itinerary and download the PDF.
