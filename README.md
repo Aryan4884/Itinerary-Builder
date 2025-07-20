@@ -44,10 +44,10 @@ npm run dev
 
 ## 🧰 Technologies Used
 
-⚛️ React
--🎨 Tailwind CSS
--🖼️ html2canvas & jsPDF (for PDF creation)
--🗓️ Day.js (for smart date handling)
+- ⚛️ React
+- 🎨 Tailwind CSS
+- 🖼️ html2canvas & jsPDF (for PDF creation)
+- 🗓️ Day.js (for smart date handling)
 ---
 ## 🎨 Customization
 
@@ -55,8 +55,8 @@ npm run dev
 🎨 Want to change styles? Modify Tailwind classes in component files
 
 ## 🤝 Contributing
--Pull requests are very welcome! 🙌
--For big changes, please open an issue first so we can chat about it 💬
+- Pull requests are very welcome! 🙌
+- For big changes, please open an issue first so we can chat about it 💬
 ---
 👨‍💻 Created by Aryan Raj (2025)
 Happy Travels! ✈️🗺️📌
