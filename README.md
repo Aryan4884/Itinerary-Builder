@@ -51,9 +51,9 @@ npm run dev
 ---
 ## 🎨 Customization
 
-🖼️ Want new scenic images? Drop them into: public/scenic_images/
-🎨 Want to change styles? Modify Tailwind classes in component files
-
+- 🖼️ Want new scenic images? Drop them into: public/scenic_images/
+- 🎨 Want to change styles? Modify Tailwind classes in component files
+---
 ## 🤝 Contributing
 - Pull requests are very welcome! 🙌
 - For big changes, please open an issue first so we can chat about it 💬
